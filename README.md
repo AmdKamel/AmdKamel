@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ahmed Kamel</h1>
+<h1 align="center">Ahmed Kamel</h1>
 <h3 align="center">A passionate AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amdkamel&label=Profile%20views&color=0e75b6&style=flat" alt="amdkamel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amdkamel" alt="amdkamel" /></a> </p>
 
-- 🔭 I’m currently working on **Advanced AI algorithms**
+- 🔭 I’m currently working on **Advanced AI Algorithms**
 
-- 🌱 I’m currently learning **Advanced AI in computer vision & NLP**
+- 🌱 I’m currently learning **Advanced AI in Computer Vision & NLP**
 
 - 📫 How to reach me **aahmedkamel.amen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ap4I3w-6co_pzoab7A4OjvppNLP8CunR/view?usp=sharing](https://drive.google.com/file/d/1Ap4I3w-6co_pzoab7A4OjvppNLP8CunR/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1Ap4I3w-6co_pzoab7A4OjvppNLP8CunR/view?usp=sharing](https://drive.google.com/file/d/1Ap4I3w-6co_pzoab7A4OjvppNLP8CunR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
